@@ -1,0 +1,60 @@
+.b1{
+  padding: 100px;
+  padding-left:200px;
+  background-color: #041C32;
+}
+.logo{
+  position: absolute;
+  top: 5px;
+  left: 5px;
+}
+.d1{
+  width: 50px;
+  height:50px;
+}
+.c1{
+  text-align: left;
+  margin: 100px;
+  margin-left: 200px;
+}
+.one{
+  color: #6FEDD6;
+  font-family: 'Roboto Mono', monospace;
+}
+.two{
+  color: #EAEAEA;
+  font-family: 'Secular One', sans-serif;
+}
+.three{
+  color: #B2B2B2;
+  font-family: 'Secular One', sans-serif;
+}
+.four{
+  font-size: 10px;
+  color: #B2B2B2;
+  font-family: 'Roboto Mono', monospace;
+}
+.anchore{
+  color:#B2B2B2;
+  font-family: 'Secular One', sans-serif;
+}
+.p{
+  font-family: 'Secular One', sans-serif;
+  font-size: 12px;
+  display: inline-block;
+  position:absolute;
+  bottom: 5px;
+  right: 20px;
+}
+.pic{
+  width: 200px;
+  height: 200px;
+}
+.pic1{
+  padding-right: 100px;
+  padding-top: 30px;
+  position: absolute;
+  right: 0;
+  width: 300px;
+  height: 200px;
+}
